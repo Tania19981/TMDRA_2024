@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://Tania19981.github.io/TMDRA_2024/images/numbeer8/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "numbeer8"
+                ]
+            },
+            "height": 1681,
+            "width": 1200,
+            "items": [
+                {
+                    "id": "https://Tania19981.github.io/TMDRA_2024/images/numbeer8/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Tania19981.github.io/TMDRA_2024/images/numbeer8/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Tania19981.github.io/TMDRA_2024/images/numbeer8/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 38,
+                                                "height": 53
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 106
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 211
+                                            },
+                                            {
+                                                "width": 300,
+                                                "height": 421
+                                            },
+                                            {
+                                                "width": 600,
+                                                "height": 841
+                                            },
+                                            {
+                                                "width": 1200,
+                                                "height": 1681
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1200,
+                                        "@id": "https://Tania19981.github.io/TMDRA_2024/images/numbeer8",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1681,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Tania19981.github.io/TMDRA_2024/images/numbeer8/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Tania19981.github.io/TMDRA_2024/images/number4_1/canvas/",
             "type": "Canvas",
             "label": {
