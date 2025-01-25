@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Tania19981.github.io/TMDRA_2024/manifests/manifest-3.json",
+  "@type" : "sc:Manifest",
+  "label" : "TMDR2025",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Images with number 1-9",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://7d592c5d-598e-4467-865e-7142d6a1033b",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://c944aef0-2dec-49da-b94a-7848c3c8eae3",
+      "@type" : "sc:Canvas",
+      "label" : "Number1",
+      "height" : 773,
+      "width" : 900,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a32d0baa-9d76-4c67-9cd8-6d0bf0b3d2c2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/number1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/number1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 773,
+          "width" : 900
+        },
+        "on" : "http://c944aef0-2dec-49da-b94a-7848c3c8eae3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bc920294-a693-42e3-9ec7-d64b4f4b2088",
+      "@type" : "sc:Canvas",
+      "label" : "Number2",
+      "height" : 1060,
+      "width" : 1060,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8d45c788-3a0a-4296-823a-2827f6e34ab0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/number2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/number2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1060,
+          "width" : 1060
+        },
+        "on" : "http://bc920294-a693-42e3-9ec7-d64b4f4b2088"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2c1e75a9-85ad-4a0e-863b-94ee498e942f",
+      "@type" : "sc:Canvas",
+      "label" : "Number3",
+      "height" : 640,
+      "width" : 1138,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c258bcce-418c-4329-b3fa-9fd4ae00d70f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/number3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/number3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 640,
+          "width" : 1138
+        },
+        "on" : "http://2c1e75a9-85ad-4a0e-863b-94ee498e942f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c0c5261a-24a1-465e-b945-a0001f2bdaf4",
+      "@type" : "sc:Canvas",
+      "label" : "Number4",
+      "height" : 581,
+      "width" : 700,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8dba1019-86c6-4460-90d8-2cecf633e146",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/number4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/number4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 581,
+          "width" : 700
+        },
+        "on" : "http://c0c5261a-24a1-465e-b945-a0001f2bdaf4"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d3e4277d-fdc2-46f4-87b3-ecf255a371a6",
+      "@type" : "sc:Canvas",
+      "label" : "Number4_1",
+      "height" : 470,
+      "width" : 600,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://656055c6-395e-434d-942d-8c84ba8e5543",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/number4_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/number4_1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 470,
+          "width" : 600
+        },
+        "on" : "http://d3e4277d-fdc2-46f4-87b3-ecf255a371a6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://03d2080d-d6ca-401a-9f83-b2e18fcc2866",
+      "@type" : "sc:Canvas",
+      "label" : "Number5",
+      "height" : 1125,
+      "width" : 1500,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c7c0e417-f4dc-4bf7-af5c-63024cdaf461",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/number5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/number5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1125,
+          "width" : 1500
+        },
+        "on" : "http://03d2080d-d6ca-401a-9f83-b2e18fcc2866"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ec2bc893-c272-43eb-9ea8-7ab4f1fb7039",
+      "@type" : "sc:Canvas",
+      "label" : "Number6",
+      "height" : 800,
+      "width" : 800,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://398c5521-ffe8-492e-a42a-d7823f94029d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/number6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/number6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 800,
+          "width" : 800
+        },
+        "on" : "http://ec2bc893-c272-43eb-9ea8-7ab4f1fb7039"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://76ef0ca7-f74d-409f-b10c-e3c4ba281235",
+      "@type" : "sc:Canvas",
+      "label" : "Number7",
+      "height" : 384,
+      "width" : 360,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c82f1915-88ea-49fc-ac84-c4b2633efdc4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/number7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/number7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 384,
+          "width" : 360
+        },
+        "on" : "http://76ef0ca7-f74d-409f-b10c-e3c4ba281235"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://24f31a26-7a30-49d0-ac65-4c0a6f12082e",
+      "@type" : "sc:Canvas",
+      "label" : "Number8",
+      "height" : 1681,
+      "width" : 1200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0be3d470-7f07-4eef-bd94-6e90f69f99e5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/numbeer8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/numbeer8",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1681,
+          "width" : 1200
+        },
+        "on" : "http://24f31a26-7a30-49d0-ac65-4c0a6f12082e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://526c0bb5-549f-4d85-9ee1-d19197dfb156",
+      "@type" : "sc:Canvas",
+      "label" : "Number9",
+      "height" : 5000,
+      "width" : 5000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://de4d0698-a0c3-44a0-bd1f-ebb133dee4db",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tania19981.github.io/TMDRA_2024/images/number9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tania19981.github.io/TMDRA_2024/images/number9",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5000,
+          "width" : 5000
+        },
+        "on" : "http://526c0bb5-549f-4d85-9ee1-d19197dfb156"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
