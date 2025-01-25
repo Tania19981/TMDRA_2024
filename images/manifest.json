@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://Tania19981.github.io/TMDRA_2024/images/number4_1/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "number4_1"
+                ]
+            },
+            "height": 470,
+            "width": 600,
+            "items": [
+                {
+                    "id": "https://Tania19981.github.io/TMDRA_2024/images/number4_1/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Tania19981.github.io/TMDRA_2024/images/number4_1/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Tania19981.github.io/TMDRA_2024/images/number4_1/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 15
+                                            },
+                                            {
+                                                "width": 38,
+                                                "height": 30
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 59
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 118
+                                            },
+                                            {
+                                                "width": 300,
+                                                "height": 235
+                                            },
+                                            {
+                                                "width": 600,
+                                                "height": 470
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 600,
+                                        "@id": "https://Tania19981.github.io/TMDRA_2024/images/number4_1",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 470,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Tania19981.github.io/TMDRA_2024/images/number4_1/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Tania19981.github.io/TMDRA_2024/images/number4/canvas/",
             "type": "Canvas",
             "label": {
