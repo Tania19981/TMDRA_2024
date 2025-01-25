@@ -171,6 +171,168 @@
             ]
         },
         {
+            "id": "https://Tania19981.github.io/TMDRA_2024/images/number5/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "number5"
+                ]
+            },
+            "height": 1125,
+            "width": 1500,
+            "items": [
+                {
+                    "id": "https://Tania19981.github.io/TMDRA_2024/images/number5/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Tania19981.github.io/TMDRA_2024/images/number5/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Tania19981.github.io/TMDRA_2024/images/number5/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 47,
+                                                "height": 36
+                                            },
+                                            {
+                                                "width": 94,
+                                                "height": 71
+                                            },
+                                            {
+                                                "width": 188,
+                                                "height": 141
+                                            },
+                                            {
+                                                "width": 375,
+                                                "height": 282
+                                            },
+                                            {
+                                                "width": 750,
+                                                "height": 563
+                                            },
+                                            {
+                                                "width": 1500,
+                                                "height": 1125
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1500,
+                                        "@id": "https://Tania19981.github.io/TMDRA_2024/images/number5",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1125,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Tania19981.github.io/TMDRA_2024/images/number5/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Tania19981.github.io/TMDRA_2024/images/number9/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "number9"
+                ]
+            },
+            "height": 5000,
+            "width": 5000,
+            "items": [
+                {
+                    "id": "https://Tania19981.github.io/TMDRA_2024/images/number9/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Tania19981.github.io/TMDRA_2024/images/number9/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Tania19981.github.io/TMDRA_2024/images/number9/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 157,
+                                                "height": 157
+                                            },
+                                            {
+                                                "width": 313,
+                                                "height": 313
+                                            },
+                                            {
+                                                "width": 625,
+                                                "height": 625
+                                            },
+                                            {
+                                                "width": 1250,
+                                                "height": 1250
+                                            },
+                                            {
+                                                "width": 2500,
+                                                "height": 2500
+                                            },
+                                            {
+                                                "width": 5000,
+                                                "height": 5000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5000,
+                                        "@id": "https://Tania19981.github.io/TMDRA_2024/images/number9",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Tania19981.github.io/TMDRA_2024/images/number9/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Tania19981.github.io/TMDRA_2024/images/number4/canvas/",
             "type": "Canvas",
             "label": {
@@ -327,6 +489,168 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://Tania19981.github.io/TMDRA_2024/images/number3/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Tania19981.github.io/TMDRA_2024/images/number7/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "number7"
+                ]
+            },
+            "height": 384,
+            "width": 360,
+            "items": [
+                {
+                    "id": "https://Tania19981.github.io/TMDRA_2024/images/number7/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Tania19981.github.io/TMDRA_2024/images/number7/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Tania19981.github.io/TMDRA_2024/images/number7/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 12,
+                                                "height": 12
+                                            },
+                                            {
+                                                "width": 23,
+                                                "height": 24
+                                            },
+                                            {
+                                                "width": 45,
+                                                "height": 48
+                                            },
+                                            {
+                                                "width": 90,
+                                                "height": 96
+                                            },
+                                            {
+                                                "width": 180,
+                                                "height": 192
+                                            },
+                                            {
+                                                "width": 360,
+                                                "height": 384
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 360,
+                                        "@id": "https://Tania19981.github.io/TMDRA_2024/images/number7",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 384,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Tania19981.github.io/TMDRA_2024/images/number7/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Tania19981.github.io/TMDRA_2024/images/number6/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "number6"
+                ]
+            },
+            "height": 800,
+            "width": 800,
+            "items": [
+                {
+                    "id": "https://Tania19981.github.io/TMDRA_2024/images/number6/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Tania19981.github.io/TMDRA_2024/images/number6/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Tania19981.github.io/TMDRA_2024/images/number6/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 25,
+                                                "height": 25
+                                            },
+                                            {
+                                                "width": 50,
+                                                "height": 50
+                                            },
+                                            {
+                                                "width": 100,
+                                                "height": 100
+                                            },
+                                            {
+                                                "width": 200,
+                                                "height": 200
+                                            },
+                                            {
+                                                "width": 400,
+                                                "height": 400
+                                            },
+                                            {
+                                                "width": 800,
+                                                "height": 800
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 800,
+                                        "@id": "https://Tania19981.github.io/TMDRA_2024/images/number6",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 800,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Tania19981.github.io/TMDRA_2024/images/number6/canvas/"
                         }
                     ]
                 }
