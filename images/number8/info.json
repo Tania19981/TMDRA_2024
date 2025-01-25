@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 15,
+    "height" : 19
+  }, {
+    "width" : 29,
+    "height" : 38
+  }, {
+    "width" : 57,
+    "height" : 75
+  }, {
+    "width" : 113,
+    "height" : 150
+  }, {
+    "width" : 225,
+    "height" : 300
+  }, {
+    "width" : 450,
+    "height" : 600
+  } ],
+  "profile" : "level0",
+  "width" : 450,
+  "id" : "https://Tania19981.github.io/TMDRA_2024/images/number8",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 600
+}
